@@ -11,10 +11,10 @@
             "id": "41974774578d6082",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -179,6 +179,17 @@
   },
   "active": "41974774578d6082",
   "lastOpenFiles": [
+    "Open Items - 2026-04-22.md",
+    "Owners/nalin-ratnaike.md",
+    "Inbox/One day I want to create an owner dashboard that compares them anonymously to other owners I have.   Products, volume, maintenance, etc.md",
+    "Inbox/I want to use the words high trust relationships in my business..md",
+    "Properties/602-carver.md",
+    "Properties/5401-arroyo-trl.md",
+    "Properties/5217-ambergate-ln.md",
+    "Properties/421-ridgeview.md",
+    "Properties/192-diamond-ranch.md",
+    "Properties/1707-aleia-cove.md",
+    "2026-04-22.md",
     "Untitled.md",
     "Welcome.md",
     "Archive",
