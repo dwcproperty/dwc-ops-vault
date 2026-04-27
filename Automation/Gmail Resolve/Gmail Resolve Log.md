@@ -1,0 +1,21 @@
+# Gmail Resolve Log
+
+- 2026-04-27T18:29:41.317Z — **Closed** LS conversation `6f2fea4b-a887-4e9d-ac4a-620d4fc529d2` (subject: "Your agent can now connect to anything") — gmail msg `19dcfe52b0a0bcdf`
+- 2026-04-27T18:29:43.541Z — **Closed** LS conversation `a1bdd87b-b4e5-453a-9190-1abc99fd4062` (subject: "Personal Microsoft account security code") — gmail msg `19dcfd8e3718f1a5`
+- 2026-04-27T18:29:45.028Z — **Closed** LS conversation `29815593-1bd2-40bd-89a3-c295aedc82b4` (subject: "Tomorrow: Find out what AI is saying about your brand") — gmail msg `19dcfd2cfd492377`
+- 2026-04-27T18:29:47.045Z — **Closed** LS conversation `bdb6b8c5-5866-4eb0-8154-3bc30a771bc5` (subject: "New lead: Liana Nowak – 192 Diamond Ranch Road") — gmail msg `19dcfd23a2743e85`
+- 2026-04-27T18:29:51.621Z — **Closed** LS conversation `e1c211c0-53af-467b-bcd3-01ee37345590` (subject: "Did you hire a pro for your gutter installation or replacement project?") — gmail msg `19dcfb741e48ffed`
+- 2026-04-27T18:30:02.137Z — **Closed** LS conversation `e1c211c0-53af-467b-bcd3-01ee37345590` (subject: "Did you hire a pro for your gutter installation or replacement project?") — gmail msg `19db5f33d2140b24`
+- 2026-04-27T18:49:48.023Z — **Closed** LS conversation `2e8e205a-017e-4fa2-8a16-319085e26db4` (subject: "Re: HOA Violation Trash Cans RESOLVED at 3017 Campeiro Avenue, Providence Village, TX, 76227") — gmail msg `19dd0171c2b9f816`
+- 2026-04-27T18:49:49.919Z — **Closed** LS conversation `3083d99d-cf9d-4d4c-a769-81004bef9631` (subject: "The Lovable mobile app is here") — gmail msg `19dd0102c83f0930`
+- 2026-04-27T18:49:51.297Z — **Closed** LS conversation `35636abb-8703-42b7-8564-4059ba1bae9a` (subject: "Where automation fits in leasing") — gmail msg `19dcffe4946802c2`
+- 2026-04-27T18:49:52.625Z — **Closed** LS conversation `a5b57f89-b4c5-4f46-8387-a6c34971b243` (subject: "OpenAI and Microsoft drop AGI clause 🤔") — gmail msg `19dcfbe5fe3a499c`
+- 2026-04-27T18:49:53.902Z — **Closed** LS conversation `2e8e205a-017e-4fa2-8a16-319085e26db4` (subject: "Re: HOA Violation Trash Cans RESOLVED at 3017 Campeiro Avenue, Providence Village, TX, 76227") — gmail msg `19dce4077f63dd95`
+- 2026-04-27T19:23:38.735Z — **Closed** LS conversation `0c7d5f4c-b09c-417a-8d4b-3ba857a98581` (subject: "Rentvine Verification Code") — office@dwcproperty.com msg `19dd0514e1ebbc1f`
+- 2026-04-27T19:23:40.033Z — **Closed** LS conversation `955e5ab2-a92b-42f0-bf0a-32a35f8fc002` (subject: "Payment Information has Changed") — office@dwcproperty.com msg `19dd04e98617318c`
+- 2026-04-27T19:23:41.466Z — **Closed** LS conversation `0c7d5f4c-b09c-417a-8d4b-3ba857a98581` (subject: "Rentvine Verification Code") — office@dwcproperty.com msg `19dce27e354b696c`
+- 2026-04-27T20:02:55.873Z — **Closed** LS conversation `42178c31-e585-4dba-9bdd-509f6fafb326` (subject: "Thanks for your payment") — office@dwcproperty.com msg `19dd07b93ff7039f`
+- 2026-04-27T21:04:48.420Z — **Closed** LS conversation `eaeebf76-dccd-4660-9ffb-15fe7f3ac3f4` (subject: "New Self Guided Showing Alert with Shiloh Winkler") — office@dwcproperty.com msg `19dd09b8d6e95ef6`
+- 2026-04-27T21:04:49.940Z — **Closed** LS conversation `a776999e-c22d-43ce-9586-1a77d2483a94` (subject: "New lead: Shiloh Winkler – 192 Diamond Ranch Road") — office@dwcproperty.com msg `19dd0974da12e552`
+- 2026-04-27T21:04:51.352Z — **Closed** LS conversation `ac0468ce-6154-42a4-8ac9-60317f315549` (subject: "Missed call from Sarat Sathuluri") — office@dwcproperty.com msg `19dd087ce7f65ff7`
+- 2026-04-27T21:04:53.791Z — **Closed** LS conversation `058da4c3-7c81-44b9-bffa-00365e14cfae` (subject: "May Education Expressway") — dcalhoun@dwcproperty.com msg `19dd064db5032ac0`
