@@ -55,3 +55,14 @@ curl https://webhook.collincountyrent.com/webhook/health
 ```bash
 pm2 restart webhook && pm2 logs webhook --lines 5
 ```
+
+
+---
+
+## 📋 Master Build Inventory
+
+For a full list of every automation, process, form, service, and integration we've built, see:
+
+**[[Build Inventory]]**
+
+Update that note whenever something new ships.
