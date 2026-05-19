@@ -9,3 +9,5 @@
 - 2026-04-30T04:00:03.862Z — **Advanced** concierge `fad24d04-09ee-4ac0-8b33-ca8ec5e3df50` "Utility Bills for 2025 Belgian Drive (Aubrey)" — Awaiting Tenant Payment → Tenant Paid
 - 2026-04-30T04:00:05.180Z — **Advanced** concierge `b81e8aff-1343-434f-b012-916e3468a98a` "Utility Bills for 2025 Belgian Drive (TXU)" — Awaiting Tenant Payment → Tenant Paid
 - 2026-05-05T04:30:01.249Z — **Advanced** concierge `b2afff36-15f2-4af0-b780-8d46ea3813ca` "Utility Bills for 1208 Mesquite Lane" — Awaiting Tenant Payment → Tenant Paid
+- 2026-05-15T12:30:02.819Z — **Advanced** concierge `a336fedd-0ea8-4ddd-8cfe-4f59e0d66073` "Utility Bills for 1208 Mesquite Lane" — Awaiting Tenant Payment → Tenant Paid
+- 2026-05-19T16:00:02.963Z — **Advanced** concierge `05427c16-c569-4fcc-a10c-742a5e6b1215` "Utility Bills for 736 Sterling Drive" — Awaiting Tenant Payment → Tenant Paid
