@@ -87,3 +87,41 @@ Body sent (re Madison's full Gmail inbox bouncing DWC emails):
 Related: earlier this session — built the domain-wide **Gmail MCP** server (keyless
 DWD, all 5 dwcproperty.com mailboxes) which is how the Madison full-inbox bounce
 was found in the first place.
+
+---
+
+## Update (same day) — auto-resolve `to`; Cowork stale-schema cause
+
+A later send attempt **through the Cowork app** failed again with `to is missing`,
+even though the connector code was already fixed. Two findings:
+
+**Why Cowork still failed:** Cowork/claude.ai was holding the **old cached tool
+schema** (no destination field), so the model had nowhere to put a number.
+Editing the connector + `pm2 restart leadsimple-mcp` does NOT refresh a connected
+client's schema — it needs a **reconnect**. (Confirmed the user's hunch that they
+never reset the app after the earlier repair.)
+
+**Better fix — server-side number resolution** (so it works regardless of schema
+cache or whether the model passes a number). `send_text_message` now
+**auto-resolves `to`** via `resolveRecipientNumber()`:
+1. explicit `to` (E.164) → use it;
+2. else `deal_id` → `GET /deals/<id>` whose `contacts[]` carry `phone_numbers`
+   (match the given `contact_id`, else first contact with a phone) — 1 lookup;
+3. else `contact_id` → scan `GET /contacts?per_page=100` pages (up to 20). The key
+   **ignores** `id`/`contact_id`/`ids[]` filters, so a bounded page scan is the only
+   way (≈15 pages for 1,471 contacts). Note `GET /contacts` LIST works and carries
+   `phone_numbers`, even though `GET /contacts/<id>` is 403.
+
+Only `body` is required now; pass any one of `to` / `deal_id` / `contact_id`.
+
+**Verified read-only** (no live send — Alise's note already went via Rentvine):
+- Madison via deal+contact → `+12149247097` (via deal)
+- Alise via contact only → `+13102796979` (via contact scan, page 8)
+- explicit `to` → passthrough
+
+**To use from Cowork:** retrying should now work (server resolves the number from
+the contact/deal even with the stale schema). For the cleanest result, **reconnect
+the LeadSimple connector once** so it also picks up the refreshed schema.
+
+Files: `/root/dwc-mcp-servers/leadsimple/index.js` (`resolveRecipientNumber` +
+`send_text_message` case + schema), restarted via `pm2 restart leadsimple-mcp`.
