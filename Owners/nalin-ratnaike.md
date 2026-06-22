@@ -58,3 +58,10 @@ _Log significant calls, emails, decisions here. Most recent on top._
 ## Tags
 
 #owner #active #multi-property #investor
+
+
+---
+
+## Legal / Dispute
+
+- [[Nalin Ratnaike - Termination Dispute]] — termination settled (eff. July 1, 2026); financials open under Paragraph 17; documented pattern of three altered termination documents (June 19–22, 2026), including an altered signing date on "Termination 1907.pdf."

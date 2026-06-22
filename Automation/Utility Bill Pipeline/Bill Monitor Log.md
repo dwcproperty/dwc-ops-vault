@@ -11,3 +11,5 @@
 - 2026-05-05T04:30:01.249Z — **Advanced** concierge `b2afff36-15f2-4af0-b780-8d46ea3813ca` "Utility Bills for 1208 Mesquite Lane" — Awaiting Tenant Payment → Tenant Paid
 - 2026-05-15T12:30:02.819Z — **Advanced** concierge `a336fedd-0ea8-4ddd-8cfe-4f59e0d66073` "Utility Bills for 1208 Mesquite Lane" — Awaiting Tenant Payment → Tenant Paid
 - 2026-05-19T16:00:02.963Z — **Advanced** concierge `05427c16-c569-4fcc-a10c-742a5e6b1215` "Utility Bills for 736 Sterling Drive" — Awaiting Tenant Payment → Tenant Paid
+- 2026-05-31T20:00:03.255Z — **Advanced** concierge `00813fa0-04da-45be-85f4-110026abea53` "Utility Bills for 2025 Belgian Drive" — Rentvine Charge Created → Tenant Paid
+- 2026-06-09T23:30:03.173Z — ⚠️ **ALERT** concierge f0c8bc5b-18be-4b93-aa6b-4ed2435301e1 — 3 consecutive failures: LeadSimple GET /rest/processes/f0c8bc5b-18be-4b93-aa6b-4ed2435301e1 → 404: {"error":"Process not found"}

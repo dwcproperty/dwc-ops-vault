@@ -1,0 +1,81 @@
+# Utility Portal Watcher Log
+
+- 2026-06-18T22:58:05.065Z — Setup test — pipeline verified, awaiting TXU credentials.
+- 2026-06-18T23:18:01.096Z — Run: 7 new, 0 changed across 1 portal(s).
+- 2026-06-18T23:21:14.074Z — Run: 5 new, 0 changed across 1 portal(s).
+- 2026-06-18T23:21:53.192Z — Run: 1 new, 0 changed across 1 portal(s).
+- 2026-06-18T23:24:09.166Z — Run: 4 new, 0 changed across 1 portal(s).
+- 2026-06-18T23:25:16.532Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-06-18T23:26:05.028Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-06-18T23:29:32.605Z — Run: 6 new, 0 changed across 1 portal(s).
+- 2026-06-18T23:30:49.756Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-06-18T23:32:05.999Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-06-18T23:33:56.549Z — Run: 0 new, 1 changed across 1 portal(s).
+- 2026-06-18T23:35:32.527Z — Run: 6 new, 0 changed across 1 portal(s).
+- 2026-06-18T23:42:00.539Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-06-18T23:51:09.819Z — Run: 4 new, 0 changed across 1 portal(s).
+- 2026-06-18T23:51:17.265Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-06-18T23:53:34.030Z — Run: 0 new, 0 changed across 2 portal(s).
+- 2026-06-19T00:09:52.509Z — Run: 2 new, 0 changed across 1 portal(s).
+- 2026-06-19T00:09:58.731Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-06-19T00:13:21.909Z — Run: 0 new, 0 changed across 1 portal(s). ⚠️ needs attention: City of Murphy
+- 2026-06-19T00:13:34.242Z — Run: 1 new, 0 changed across 1 portal(s).
+- 2026-06-19T00:13:51.918Z — Run: 0 new, 0 changed across 1 portal(s). ⚠️ needs attention: City of Celina
+- 2026-06-19T00:14:02.906Z — Run: 1 new, 0 changed across 1 portal(s).
+- 2026-06-19T00:14:17.857Z — Run: 1 new, 0 changed across 1 portal(s).
+- 2026-06-19T00:15:05.750Z — Run: 0 new, 0 changed across 1 portal(s). ⚠️ needs attention: City of Murphy
+- 2026-06-19T00:15:13.379Z — Run: 0 new, 0 changed across 1 portal(s). ⚠️ needs attention: City of Celina
+- 2026-06-19T00:22:08.024Z — Run: 0 new, 0 changed across 1 portal(s). ⚠️ needs attention: City of Murphy
+- 2026-06-19T00:22:45.963Z — Run: 1 new, 0 changed across 1 portal(s).
+- 2026-06-19T00:22:56.813Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-06-19T00:24:57.921Z — Run: 0 new, 0 changed across 1 portal(s). ⚠️ needs attention: Mustang Special Utility District
+- 2026-06-19T00:28:09.995Z — Run: 1 new, 0 changed across 1 portal(s).
+- 2026-06-19T00:29:51.585Z — Run: 1 new, 0 changed across 1 portal(s).
+- 2026-06-19T00:30:00.884Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-06-19T00:30:29.423Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-06-19T00:32:45.968Z — Run: 0 new, 0 changed across 7 portal(s).
+- 2026-06-19T00:37:17.185Z — Run: 1 new, 0 changed across 1 portal(s).
+- 2026-06-19T00:37:37.246Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-06-19T00:37:45.199Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-06-19T00:37:53.227Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-06-19T00:40:02.536Z — Run: 0 new, 0 changed across 8 portal(s).
+- 2026-06-19T00:42:53.477Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-06-19T00:43:03.810Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-06-19T00:43:14.832Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-06-19T00:43:26.803Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-06-19T00:46:59.963Z — Run: 1 new, 0 changed across 1 portal(s).
+- 2026-06-19T00:47:06.328Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-06-19T00:49:53.847Z — Run: 0 new, 0 changed across 9 portal(s).
+- 2026-06-19T01:04:42.747Z — Run: 0 new, 0 changed across 1 portal(s). ⚠️ needs attention: Farmers Electric
+- 2026-06-19T01:06:30.714Z — Run: 0 new, 0 changed across 1 portal(s). ⚠️ needs attention: Farmers Electric
+- 2026-06-19T01:06:34.510Z — Run: 0 new, 0 changed across 1 portal(s). ⚠️ needs attention: Farmers Electric
+- 2026-06-19T01:06:40.908Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-06-19T01:07:39.155Z — Run: 0 new, 0 changed across 1 portal(s). ⚠️ needs attention: Farmers Electric
+- 2026-06-19T01:07:45.403Z — Run: 1 new, 0 changed across 1 portal(s).
+- 2026-06-19T01:07:51.640Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-06-19T01:09:15.759Z — Run: 0 new, 0 changed across 1 portal(s). ⚠️ needs attention: Farmers Electric
+- 2026-06-19T01:09:20.880Z — Run: 1 new, 0 changed across 1 portal(s).
+- 2026-06-19T01:10:23.140Z — Run: 1 new, 0 changed across 1 portal(s).
+- 2026-06-19T01:10:28.100Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-06-19T01:10:33.494Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-06-19T01:13:41.707Z — Run: 0 new, 0 changed across 10 portal(s).
+- 2026-06-19T01:18:16.774Z — Run: 1 new, 0 changed across 1 portal(s).
+- 2026-06-19T01:18:24.911Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-06-19T01:21:08.613Z — Run: 1 new, 0 changed across 1 portal(s).
+- 2026-06-19T01:22:14.485Z — Run: 1 new, 0 changed across 1 portal(s).
+- 2026-06-19T01:23:46.263Z — Run: 1 new, 0 changed across 1 portal(s).
+- 2026-06-19T01:25:16.814Z — Run: 1 new, 0 changed across 1 portal(s).
+- 2026-06-19T01:26:09.603Z — Run: 2 new, 0 changed across 1 portal(s).
+- 2026-06-19T01:28:08.072Z — Run: 1 new, 0 changed across 1 portal(s).
+- 2026-06-19T01:29:58.002Z — Run: 1 new, 0 changed across 1 portal(s).
+- 2026-06-19T01:30:58.814Z — Run: 2 new, 0 changed across 1 portal(s).
+- 2026-06-19T01:34:53.548Z — Run: 6 new, 0 changed across 1 portal(s).
+- 2026-06-19T01:39:34.234Z — Run: 6 new, 0 changed across 1 portal(s).
+- 2026-06-19T01:44:28.274Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-06-19T01:52:09.389Z — Run: 0 new, 0 changed across 11 portal(s).
+- 2026-06-19T07:04:44.923Z — Run: 0 new, 0 changed across 11 portal(s).
+- 2026-06-20T07:05:17.168Z — Run: 2 new, 0 changed across 11 portal(s).
+- 2026-06-21T07:04:36.104Z — Run: 0 new, 0 changed across 11 portal(s).
+- 2026-06-22T07:04:24.891Z — Run: 0 new, 0 changed across 11 portal(s). ⚠️ needs attention: Farmers Electric
+- 2026-06-22T09:18:47.911Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-06-22T09:24:20.349Z — Run: 0 new, 0 changed across 11 portal(s).
