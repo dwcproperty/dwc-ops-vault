@@ -37,3 +37,10 @@ Ask: *"What is the primary purpose of this process?"*
 - If it's about a **resident or owner relationship event** → **PM**
 - If it's about a **physical repair to the property** → **MNT**
 - Everything else (coordination, execution, internal admin) → **Ops**
+
+
+---
+
+## Updates
+
+- **2026-06-22** — Convention reaffirmed. New process **`Acct — Late Fee Relief`** (tenant late-fee waiver intake via JotForm) classified under **Acct** (late fees = money). When creating any new LeadSimple process, apply one of the four prefixes above (Acct / Ops / PM / MNT) with the `Prefix — Name` em-dash format. Older processes use mixed prefixes (numbers, BAC, HOA) and can be renamed to this standard over time.

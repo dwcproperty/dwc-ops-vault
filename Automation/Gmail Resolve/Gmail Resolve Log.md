@@ -1815,3 +1815,20 @@
 - 2026-06-22T01:02:35.576Z — **Closed** LS conversation `c6d9fb3e-2190-48c2-92ae-91e1450cbd3b` (subject: "You've connected your bank account to ChatGPT with Plaid") — office@dwcproperty.com msg `19eecb5011063673`
 - 2026-06-22T08:11:27.731Z — **Closed** LS conversation `4f4dae77-cc1a-402f-bb39-7d766e75ef61` (subject: "Reminder: Insufficient money in your bank") — info@dwcproperty.com msg `19eee08a267570e7`
 - 2026-06-22T09:21:30.365Z — **Closed** LS conversation `b355b79c-9aa7-48b7-abb3-7fd5acb08ddc` (subject: "Just in at City Wide Facility Solutions: This week's employee reviews and more") — dcalhoun@dwcproperty.com msg `19eee713fc0e784d`
+- 2026-06-22T13:13:47.523Z — **Closed** LS conversation `dd95ffbe-4606-4eef-8984-cad0341cb20f` (subject: "Reference Check Complete - CORY BAY") — office@dwcproperty.com msg `19eef71cd31315a2`
+- 2026-06-22T13:23:56.669Z — **Closed** LS conversation `dd95ffbe-4606-4eef-8984-cad0341cb20f` (subject: "Reference Check Complete - CORY BAY") — office@dwcproperty.com msg `19eef7936713e5bc`
+- 2026-06-22T13:53:50.689Z — **Closed** LS conversation `dd95ffbe-4606-4eef-8984-cad0341cb20f` (subject: "Reference Check Complete - CORY BAY") — office@dwcproperty.com msg `19eef94bd979a830`
+- 2026-06-22T15:13:11.724Z — **Closed** LS conversation `b0cd25c6-b64b-47af-a844-2e784ba4c01f` (subject: "See what's new in LeadSimple: AI agents, e-Signatures, workflows, and maintenance") — office@dwcproperty.com msg `19eefa1da97cf97e`
+- 2026-06-22T15:13:14.062Z — **Closed** LS conversation `6218f1ff-7d65-4866-99bb-374e9dd15e0e` (subject: "General Manager, US at Circles") — dcalhoun@dwcproperty.com msg `19eefc0ccba059fa`
+- 2026-06-22T15:13:15.481Z — **Closed** LS conversation `4ea2a590-338c-44aa-bad3-99b54e001f50` (subject: "Reminder: Tom Ferry X SOLD.com webinar tomorrow - Free webinar!") — dcalhoun@dwcproperty.com msg `19eefa3a8ffbb871`
+- 2026-06-22T15:13:16.794Z — **Closed** LS conversation `8c3b7b1b-d126-44b0-8dd6-f2fc9d84a3e3` (subject: "This FRIDAY! Lending Myths, Busted: What Realtors Need to Know!") — dcalhoun@dwcproperty.com msg `19eef6bcc61e6747`
+- 2026-06-22T15:53:05.491Z — **Closed** LS conversation `4834e0cd-fe87-42d0-8cc1-d622e6bdca4e` (subject: "[Register] Leasing Office Hours - Reporting & Intelligence") — office@dwcproperty.com msg `19ef0050b4f8d1b9`
+- 2026-06-22T16:33:38.400Z — **Closed** LS conversation `4a9c6861-180e-45d1-a217-3347e72314f1` (subject: "Mythos tied to NSA breach? 👻") — office@dwcproperty.com msg `19ef009479efeb8c`
+- 2026-06-22T16:54:01.554Z — **Closed** LS conversation `0e259b21-a49a-4739-866c-50c8faf72c26` (subject: "How This Investor Turned a “No” into a “Yes”") — dcalhoun@dwcproperty.com msg `19ef0258aaa89ccd`
+- 2026-06-22T18:24:04.619Z — **Closed** LS conversation `31384f62-7f23-43b3-8e36-c0a47260f41f` (subject: "Missed call from (214) 797-6869") — office@dwcproperty.com msg `19ef08d2cded199b`
+- 2026-06-22T18:34:01.133Z — **Closed** LS conversation `dace7c9e-1fcc-421f-815b-595f38691aff` (subject: "Tracking maintenance requests from start to finish") — office@dwcproperty.com msg `19ef075f41cba1db`
+- 2026-06-22T19:04:05.752Z — **Closed** LS conversation `186b7f61-6657-4c2f-b3ec-cdc3ca030cd3` (subject: "Missed call from Unidentified Caller") — office@dwcproperty.com msg `19ef0b16fb3d1441`
+- 2026-06-22T20:04:05.227Z — **Closed** LS conversation `d8b7853f-5b87-47a6-a67d-0dd5248e6626` (subject: "ANNUAL BACKFLOW TESTING NOTICE for JULY.") — office@dwcproperty.com msg `19ef0cd618518e85`
+- 2026-06-22T20:33:03.835Z — **Closed** LS conversation `64e7e9f9-d23d-4aee-a712-64f534894d91` (subject: "We found something you might like") — dcalhoun@dwcproperty.com msg `19ef0f83e8d3f3a5`
+- 2026-06-22T21:24:07.457Z — **Closed** LS conversation `8a52f8e8-1f4e-4033-ac17-68f481a8791c` (subject: "New lead: Latoya Anderson – 3132 Burmese Street") — office@dwcproperty.com msg `19ef133db68e552e`
+- 2026-06-22T21:24:09.001Z — **Closed** LS conversation `cfbf1df6-559b-4787-8c00-506dbddceb96` (subject: "Regarding your website ranking") — info@dwcproperty.com msg `19ef11ab0821b615`

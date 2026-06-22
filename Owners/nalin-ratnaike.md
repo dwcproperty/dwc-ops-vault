@@ -43,6 +43,7 @@
 
 _Log significant calls, emails, decisions here. Most recent on top._
 
+- **2026-06-22** — **Key handover.** Alec Hereford (incoming broker, PMI Collin) came to the DWC office and picked up the **remaining keys**. No garage door openers or anything else were handed over — DWC had nothing further in its possession. DWC passed along any and all information it had received from McCaw. Clean, complete handover of everything in DWC's possession. See [[Nalin Ratnaike - Termination Dispute]].
 - [date] — [summary of interaction, key decisions, follow-ups]
 
 ---
