@@ -157,3 +157,22 @@ How does prompt-7 identify the right contact to stamp **in production**?
 
 ### Remaining steps after the stamp test
 8 (Claude Code MCP-verifies contact `late_fee_relief_last_granted_date` = 2026-06-23) · 9 (Denied → halt) · 10 (revert identifier; delete both test processes + lead; keep+tag contact; Claude Code clears the contact date via update_contact) · 11 (flip Active — gated on the production question above) · 12 (Publish "06 Delinquencies Late Rent" d5390b5d-… after confirming the two prompt-4 additions).
+
+### Steps 5–8 DONE + stamp VERIFIED (2026-06-23)
+- **Stamp test ran via hardcoded contact** (prompt-7 Update Contact temporarily set to literal `45d41db3-…`, published v2 "TEMP smoke test — hardcoded contact (revert before production)").
+  - Step 5: Relief Decision = Approved → conditional branch produced the Approved "Advance to Stage 4" task → Verify Payment & Apply Relief.
+  - Step 6: Stage-4 tasks completed (Rentvine void marked done WITHOUT a real void) → Stage 5.
+  - Step 7: Relief Granted Date = 2026-06-23 set **just before** moving to Record & Close (the Zap triggers on the stage change, so the date must be present at that moment for the filter to pass) → process Completed.
+- **Step 8 — prompt-7 Zap GREEN:** run 013ffa18-6e27… (v2, 01:37:23 pm) Process Changes Stage → Filter "passed the rules" (Record & Close + Approved + Granted Date present) → Update Contact "Sent 1 new Contact." The 01:32 run on the Stage-4 change correctly showed Filtered (0). Filter verified both directions.
+- **Claude Code MCP verification:** contact `45d41db3-…` `late_fee_relief_last_granted_date` = `1782190800` = **2026-06-23** (00:00 Central); contact updated_at `2026-06-23T18:37:25Z` matches the Zap run. ✅
+
+### KEY PRODUCTION FINDING — Tenant > ID is EMPTY for orphaned processes
+- Cowork searched the live prompt-7 trigger sample for the test process: **"Tenant" → No matches found** (the orphaned process exposes no tenant field; get_process confirms `contact_roles: []`).
+- **Conclusion:** as wired, prompt-7 only stamps when the process carries a tenant contact-role. Processes started **without** one (orphaned sub-process of a lead — how the build/test started them) will NOT resolve a tenant live.
+- **DECISION NEEDED before Step 11 (flip Active).** Options:
+  (a) **Production SOP = start the Late Fee Relief process on the tenant's property** (lease supplies Tenant > ID). Cleanest if processes are always property-linked. No Zap change.
+  (b) **Add a Tenant contact-role to the "Acct Late Fee Relief" process type** so the PM links the tenant directly when starting it (works even off a lead). Process-type change + confirm the role surfaces as "Tenant" in the trigger.
+  (c) Different identifier (e.g., a tenant-email custom field on the process written by prompt-6, matched in prompt-7) — more rework.
+- **Recommendation (pending Darrell):** (a) if the real start-flow is always property-anchored; otherwise (b). Do NOT flip Active until this is settled, or production approvals silently fail to stamp (breaking once-per-year enforcement).
+
+### Remaining: Step 9 (Denied → verify HALT) · Step 10 (REVERT hardcode → "Tenant > ID"; delete both test processes + lead; keep+tag contact; Claude Code clears the contact date via update_contact) · Step 11 (flip Active — GATED on the decision above) · Step 12 (Publish "06 Delinquencies Late Rent").
