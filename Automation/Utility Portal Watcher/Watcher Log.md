@@ -79,3 +79,5 @@
 - 2026-06-22T07:04:24.891Z — Run: 0 new, 0 changed across 11 portal(s). ⚠️ needs attention: Farmers Electric
 - 2026-06-22T09:18:47.911Z — Run: 0 new, 0 changed across 1 portal(s).
 - 2026-06-22T09:24:20.349Z — Run: 0 new, 0 changed across 11 portal(s).
+- 2026-06-23T07:04:38.354Z — Run: 1 new, 0 changed across 11 portal(s). ⚠️ needs attention: City of Princeton
+- 2026-06-23T16:50:46.041Z — Run: 0 new, 0 changed across 1 portal(s).

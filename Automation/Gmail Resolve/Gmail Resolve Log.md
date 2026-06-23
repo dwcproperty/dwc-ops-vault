@@ -1833,3 +1833,19 @@
 - 2026-06-22T21:24:07.457Z — **Closed** LS conversation `8a52f8e8-1f4e-4033-ac17-68f481a8791c` (subject: "New lead: Latoya Anderson – 3132 Burmese Street") — office@dwcproperty.com msg `19ef133db68e552e`
 - 2026-06-22T21:24:09.001Z — **Closed** LS conversation `cfbf1df6-559b-4787-8c00-506dbddceb96` (subject: "Regarding your website ranking") — info@dwcproperty.com msg `19ef11ab0821b615`
 - 2026-06-22T21:42:54.621Z — **Closed** LS conversation `51693808-4668-4081-b816-35d164b60ce1` (subject: "New lead: Jakki hernandez – 3132 Burmese Street") — office@dwcproperty.com msg `19ef1459b15fef53`
+- 2026-06-22T23:23:50.425Z — **Closed** LS conversation `cc43ac76-7b16-456f-bf03-2396b9e9e018` (subject: "Missed call from (972) 984-9028") — office@dwcproperty.com msg `19ef19fc70433076`
+- 2026-06-23T00:53:36.926Z — **Closed** LS conversation `c9cb2203-ff16-4ad1-b723-bf10caa7467b` (subject: "Housing market updates: Rockwall, 75087") — dcalhoun@dwcproperty.com msg `19ef1ccbb8001ae3`
+- 2026-06-23T02:23:36.197Z — **Closed** LS conversation `ed074557-77ca-4dd3-a40d-0da9ead74cc6` (subject: "New lead: Destiny Klein – 3132 Burmese Street") — office@dwcproperty.com msg `19ef246b2fb44bdd`
+- 2026-06-23T14:53:48.751Z — **Closed** LS conversation `50ab475b-3742-4959-b5ea-e52bb4f64083` (subject: "New Resident Payment from Roman Coronel") — office@dwcproperty.com msg `19ef4e94ec1e8779`
+- 2026-06-23T14:53:50.873Z — **Closed** LS conversation `d64ed11e-8b6a-4e02-8008-a3f9aff9ef0a` (subject: "One of Your SOLD.com Perks: Free AI Marketing Training - Register Now") — info@dwcproperty.com msg `19ef4c8776032934`
+- 2026-06-23T14:53:52.230Z — **Closed** LS conversation `80e56200-a22b-4d4d-97a6-9d863c214033` (subject: "Power washing services?") — info@dwcproperty.com msg `19ef48dc78ec4ce7`
+- 2026-06-23T14:53:53.849Z — **Closed** LS conversation `fdb02c6e-2c02-4425-a86b-afdf1cd9f020` (subject: "Private Estates Manager at Confidential") — dcalhoun@dwcproperty.com msg `19ef4e7598d6d089`
+- 2026-06-23T14:53:55.204Z — **Closed** LS conversation `501dee46-2cf7-42d5-80f2-b6be8b0170e0` (subject: "Darrell, Working with Doctors? Don’t Miss This Class!") — dcalhoun@dwcproperty.com msg `19ef4e47eeaa05a5`
+- 2026-06-23T14:53:56.585Z — **Closed** LS conversation `1335051d-b810-4b00-9919-11639ccb8d9b` (subject: "Commercial Paver Installation & Repair | C&D Services") — dcalhoun@dwcproperty.com msg `19ef4c85a89ae283`
+- 2026-06-23T14:53:57.955Z — **Closed** LS conversation `55d57abf-8224-4147-b152-10e2d32d9b55` (subject: "You've got 28 credits!") — dcalhoun@dwcproperty.com msg `19ef46a0ff2fbab0`
+- 2026-06-23T14:53:59.357Z — **Closed** LS conversation `bf60e610-5aa7-474b-845c-734fa24e74a5` (subject: "PRIME DAY is here! Four days of epic deals, up to 40% off.") — dcalhoun@dwcproperty.com msg `19ef41a4860ae96c`
+- 2026-06-23T14:54:00.668Z — **Closed** LS conversation `e81ed607-a3df-4601-b018-e8ee52116f2f` (subject: "All the project details you need") — dcalhoun@dwcproperty.com msg `19ef401d91220d06`
+- 2026-06-23T14:54:02.036Z — **Closed** LS conversation `866dd77c-5ea0-48cd-a30c-1fe18b5ed7fc` (subject: "Property Managers Digest for Monday June 22, 2026") — dcalhoun@dwcproperty.com msg `19ef2d71b66ce8a5`
+- 2026-06-23T14:54:03.320Z — **Closed** LS conversation `e6de0efd-90b6-4ee3-ae76-6afb1ecef813` (subject: "NARPM Daily Consolidated Digest for Monday, June 22, 2026 (ET)") — dcalhoun@dwcproperty.com msg `19ef2d6058be5082`
+- 2026-06-23T14:54:04.636Z — **Closed** LS conversation `1096af76-3c50-4525-a416-968d7629df0c` (subject: "You have 5 new messages") — dcalhoun@dwcproperty.com msg `19ef22c3b41a2efc`
+- 2026-06-23T18:13:58.813Z — **Closed** LS conversation `4ab4cb48-b587-4019-97e6-8f0bb9774aca` (subject: "Missed call from Unidentified Caller") — office@dwcproperty.com msg `19ef5af0b8ba32b6`
