@@ -1850,3 +1850,26 @@
 - 2026-06-23T14:54:04.636Z — **Closed** LS conversation `1096af76-3c50-4525-a416-968d7629df0c` (subject: "You have 5 new messages") — dcalhoun@dwcproperty.com msg `19ef22c3b41a2efc`
 - 2026-06-23T18:13:58.813Z — **Closed** LS conversation `4ab4cb48-b587-4019-97e6-8f0bb9774aca` (subject: "Missed call from Unidentified Caller") — office@dwcproperty.com msg `19ef5af0b8ba32b6`
 - 2026-06-23T18:24:07.964Z — **Closed** LS conversation `5e30f6f8-a864-49f4-a784-ccb87cf218a0` (subject: ""How to Design a 45-Minute Workshop That Outperforms a 2-Hour Session" and 4 more") — office@dwcproperty.com msg `19ef5b15c204884a`
+- 2026-06-23T19:43:23.979Z — **Closed** LS conversation `0412b522-c7ef-4e93-9b2e-83eab89831db` (subject: "Your payment's complete") — office@dwcproperty.com msg `19ef5daf783c8bcd`
+- 2026-06-23T19:43:25.287Z — **Closed** LS conversation `78cf138d-371f-46ec-b55e-adc054dbacbb` (subject: "Your Atmos Energy payment has been received") — office@dwcproperty.com msg `19ef5d678f40a3c1`
+- 2026-06-23T19:43:26.693Z — **Closed** LS conversation `d781b800-8a80-4101-bf79-173983a60b2d` (subject: "Intuit Product Referrals: your $600 window closes June 30") — office@dwcproperty.com msg `19ef5c3625d9f2ba`
+- 2026-06-23T19:43:28.165Z — **Closed** LS conversation `9a58c92f-c2c9-492c-9a13-eb38509ac31c` (subject: "Why maintenance becomes so frustrating") — office@dwcproperty.com msg `19ef5c1d433f23fd`
+- 2026-06-23T19:43:30.172Z — **Closed** LS conversation `7aeda5c0-1a89-4cfa-a69d-1b700af0bcc2` (subject: "Now Supporting Multi-Signer Notarizations ✍️") — office@dwcproperty.com msg `19ef5082be6f8bfe`
+- 2026-06-23T20:13:04.003Z — **Closed** LS conversation `280d83b0-8521-4e16-80ef-a7786f191847` (subject: "Tomorrow: Learn Vibe Coding with Todd Ortscheid") — office@dwcproperty.com msg `19ef5a4a9731f761`
+- 2026-06-23T20:13:05.600Z — **Closed** LS conversation `b9767803-c590-4cc4-9cd6-be40bf99554f` (subject: "Starting soon! Our Most-Watched Webinar of 2026") — info@dwcproperty.com msg `19ef56703b0d6a0a`
+- 2026-06-23T20:13:07.473Z — **Closed** LS conversation `31e3c11b-42e4-473d-8fa0-7e17e7f3ac18` (subject: "Broker Open in Waxahachie!") — dcalhoun@dwcproperty.com msg `19ef5cd34cb8ab29`
+- 2026-06-23T20:13:08.877Z — **Closed** LS conversation `20581705-f9cd-4afc-96a0-d302f3a983fa` (subject: "Landing Pages for Buyer Leads") — dcalhoun@dwcproperty.com msg `19ef5c25c645a063`
+- 2026-06-23T20:13:10.637Z — **Closed** LS conversation `f954e900-664e-4ef9-bfe7-318513623f1c` (subject: "NARPM Governmental Affairs Updates") — dcalhoun@dwcproperty.com msg `19ef56a1e3891214`
+- 2026-06-23T20:13:11.946Z — **Closed** LS conversation `ee9c9022-0b6d-47db-a001-bb525bb64810` (subject: "At Large Chaper Meeting 3-4PM EST 6/24/26") — dcalhoun@dwcproperty.com msg `19ef57c87097028d`
+- 2026-06-23T20:13:13.368Z — **Closed** LS conversation `06a4b791-5aea-46dd-aa64-814a22252e64` (subject: "Re: Question") — dcalhoun@dwcproperty.com msg `19ef57883e2e9e22`
+- 2026-06-23T20:23:21.461Z — **Closed** LS conversation `77a2d8be-55a6-4632-8136-728f167fcfd0` (subject: "Your 4th of July gift from us") — office@dwcproperty.com msg `19ef5012b69e6edb`
+- 2026-06-23T20:23:23.033Z — **Closed** LS conversation `a1c72641-594a-4d6d-8dcf-8691a28685e1` (subject: "Your MLS is Available for Facebook Home Search") — info@dwcproperty.com msg `19ef52895d1e4b18`
+- 2026-06-23T20:23:25.127Z — **Closed** LS conversation `2608ff03-9642-49aa-b91a-bd5c9d78cbfe` (subject: "NEW TITLES ADDED - Prime Day deals are waiting for you!") — dcalhoun@dwcproperty.com msg `19ef505c59e3a59f`
+- 2026-06-23T20:33:15.547Z — **Closed** LS conversation `4b872913-cce9-4794-bf91-a28232a469b6` (subject: "Missed call from Unidentified Caller") — office@dwcproperty.com msg `19ef6289d7364d56`
+- 2026-06-23T21:14:06.436Z — **Closed** LS conversation `8f87a067-e4b2-4506-9be0-53861af91bc1` (subject: "New: Anthropic debuts Claude tag 🆕") — office@dwcproperty.com msg `19ef64da90c64a06`
+- 2026-06-23T21:33:53.271Z — **Closed** LS conversation `90aaba45-5398-439e-ad96-de6f4dd76327` (subject: "Missed call from Unidentified Caller") — office@dwcproperty.com msg `19ef66417a9a5927`
+- 2026-06-23T21:53:50.402Z — **Closed** LS conversation `b9082b5d-72b5-4a4b-a67c-0c67cea01433` (subject: "DWC | Gmail Connector recovered") — office@dwcproperty.com msg `19ef675f1d2ccbc2`
+- 2026-06-23T21:53:51.752Z — **Closed** LS conversation `bce27ec5-b94f-4ba0-a304-00060ed31218` (subject: "DWC | Gmail Connector DOWN - reauth needed") — office@dwcproperty.com msg `19ef675b80feaa44`
+- 2026-06-23T21:53:53.139Z — **Closed** LS conversation `d719316d-3f60-4ec2-8494-db214961f759` (subject: "[TEST] DWC | Gmail Connector DOWN - reauth needed") — office@dwcproperty.com msg `19ef671c33794450`
+- 2026-06-23T21:53:54.451Z — **Closed** LS conversation `84447f64-3b3a-415b-aa62-c9ed5169c293` (subject: "[TEST] Ã°ÂŸÂ”Â´ DWC | Gmail Connector DOWN Ã¢Â€Â” needs reauth") — office@dwcproperty.com msg `19ef66d86d0eb2b8`
+- 2026-06-23T21:53:55.793Z — **Closed** LS conversation `d2a9ca45-640b-4963-929a-b6553147e2f9` (subject: "Rentvine Verification Code") — office@dwcproperty.com msg `19ef6684c0e0001f`

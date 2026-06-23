@@ -1,3 +1,10 @@
+> [!update] 2026-06-23 — superseded in part
+> The ADC identity changed from `office@` to a dedicated **`automation@dwcproperty.com`**
+> (non-expiring, in a session-control-exempt OU) to stop the ~weekly reauth failures,
+> and a watchdog was added. `office@` no longer holds any role on the SA. See
+> [[2026-06-23 Gmail Connector — Permanent Reauth Fix + Monitor]]. The sections below
+> reflect the original 2026-06-22 build.
+
 # 2026-06-22 — Domain-Wide Gmail MCP Server (all 5 mailboxes, keyless DWD)
 
 Built a single MCP server that searches/reads **all five `dwcproperty.com`
@@ -29,11 +36,10 @@ that policy. Instead:
 - The box impersonates the SA via the **IAM `signJwt` API** (Google signs the DWD
   assertion server-side with its managed key — no key file on disk), then exchanges
   it (jwt-bearer) for a per-mailbox access token.
-- That `signJwt` call authenticates with **Application Default Credentials = a
-  NON-admin user (`office@`)** set up once via `gcloud auth application-default
-  login`, holding `roles/iam.serviceAccountTokenCreator` on the SA + Service Usage
-  Consumer on the project. Using `office@` (not the `info@` super admin) keeps the
-  stored credential's blast radius to one ordinary mailbox.
+- That `signJwt` call authenticates with **Application Default Credentials** (a
+  non-admin user) holding `roles/iam.serviceAccountTokenCreator` on the SA + Service
+  Usage Consumer on the project. **[As of 2026-06-23 the ADC user is `automation@`,
+  not `office@` — see the update banner at top.]**
 - gcloud installed at `/opt/google-cloud-sdk/`; ADC at
   `/root/.config/gcloud/application_default_credentials.json` (0600).
 
@@ -85,7 +91,7 @@ her full inbox will keep delaying mail. → prompted the SMS heads-up to her.
 ## Maintenance quick-ref
 - Rotate connector password: `generate_password_hash` into `gmail-oauth-pw.hash`.
 - Revoke all sessions: delete `gmail-oauth-store.json` + `pm2 restart gmail-oauth-gateway`.
-- Revoke the whole SA: remove Client ID from Admin → DWD, or pull `office@`'s
+- Revoke the whole SA: remove Client ID from Admin → DWD, or pull the ADC user's
   Token Creator role.
 - Add a scope later: one line in `config.py` `SCOPES` **and** re-authorize that exact
   scope in Admin → Domain-wide delegation (both required).
