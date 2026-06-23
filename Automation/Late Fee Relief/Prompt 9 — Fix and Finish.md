@@ -176,3 +176,14 @@ How does prompt-7 identify the right contact to stamp **in production**?
 - **Recommendation (pending Darrell):** (a) if the real start-flow is always property-anchored; otherwise (b). Do NOT flip Active until this is settled, or production approvals silently fail to stamp (breaking once-per-year enforcement).
 
 ### Remaining: Step 9 (Denied → verify HALT) · Step 10 (REVERT hardcode → "Tenant > ID"; delete both test processes + lead; keep+tag contact; Claude Code clears the contact date via update_contact) · Step 11 (flip Active — GATED on the decision above) · Step 12 (Publish "06 Delinquencies Late Rent").
+
+### Steps 9–10 DONE (2026-06-23)
+- **Step 9 — Denied path HALTS ✅:** second process (Denied, db5369f4) advanced to Record & Close → prompt-7 Zap "This filter successfully stopped your run" (0 tasks). Once-per-year guard verified (only Approved stamps).
+- **Step 10 — revert + cleanup:**
+  - **Revert ✅:** Zap 369748081 Update Contact back to dynamic "Tenant > ID" (hardcoded id gone, verified on screen). Published **v3, ON**. Production will not stamp the test contact.
+  - **Deletions:** both test processes (234b4c02 Approved, db5369f4 Denied) + the test lead deleted.
+  - ⚠️ **Cascade:** deleting the test lead **cascade-deleted its primary contact 45d41db3** (URL 404s; search "Test Tenant LFR" → none). So "keep + tag smoke test" couldn't be done — nothing left to tag. Net: ALL test data removed (processes + lead + contact). Claude Code's planned API clear of the stamp is now moot (contact gone). Lesson: deleting a LeadSimple lead cascade-deletes its primary contact — tag/detach the contact BEFORE deleting the lead next time.
+- JotForm test submissions (6580379207711477973, 6580451557714329112) still exist in JotForm — harmless test data; optional to delete.
+
+### HOLDING at Step 11 — production tenant-resolution decision (see options above)
+Test is fully green end-to-end; the ONLY blocker to flipping Active is deciding how prompt-7 resolves the tenant in production (Tenant > ID confirmed empty on orphaned processes). Awaiting Darrell's choice: (a) SOP = start process on the tenant's property; (b) add Tenant contact-role to the process type (+re-test); (c) other identifier. Step 12 (Publish "06 Delinquencies Late Rent") still pending after Step 11.
