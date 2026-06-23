@@ -187,3 +187,15 @@ How does prompt-7 identify the right contact to stamp **in production**?
 
 ### HOLDING at Step 11 — production tenant-resolution decision (see options above)
 Test is fully green end-to-end; the ONLY blocker to flipping Active is deciding how prompt-7 resolves the tenant in production (Tenant > ID confirmed empty on orphaned processes). Awaiting Darrell's choice: (a) SOP = start process on the tenant's property; (b) add Tenant contact-role to the process type (+re-test); (c) other identifier. Step 12 (Publish "06 Delinquencies Late Rent") still pending after Step 11.
+
+### DECISION — production tenant-resolution = path (a), NO rework (2026-06-23, Darrell)
+Production Late Fee Relief processes are spawned from **"06 Delinquencies Late Rent"** (d5390b5d-f766-41f8-9f41-0cb50579aa02), which already carries the **tenant, property, and owner**. The spawned process therefore inherits the property → the lease supplies **Tenant > ID** → prompt-7 resolves and stamps the correct contact. The orphaned-process failure seen in testing was a test-setup artifact (we started from a bare Rentvine Tenants lead). **No Zap or process-type change required.**
+
+**The one production-correctness check (do at Step 12):** confirm the two prompt-4 additions in 06 Delinquencies start the Late Fee Relief process **carrying the property/tenant** (so Tenant > ID is non-empty live), not as a bare sub-process.
+
+**Safety net:** monitor the FIRST real Late Fee Relief case end-to-end — confirm (1) the spawned process carries the tenant, and (2) prompt-7 stamps that tenant's `late_fee_relief_last_granted_date`. Claude Code can MCP-verify that first real stamp.
+
+### Cleared for Steps 11–12
+- **Step 11:** leave "Acct Late Fee Relief" (d00f54a7-…) **Active** (already Active from the test).
+- **Step 12:** in "06 Delinquencies Late Rent" draft, verify the two prompt-4 additions are present AND property-link the spawned process, then **Publish**.
+After this the automation is fully live.
