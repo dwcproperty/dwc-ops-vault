@@ -1,3 +1,11 @@
+---
+type: owner-index
+status: convenience-index
+authority: RentVine and Google Drive; verify before relying
+last_verified: null
+superseded_by: null
+---
+
 # Nalin Ratnaike
 
 **Type:** Out-of-state / multi-property investor owner
@@ -50,7 +58,7 @@ _Log significant calls, emails, decisions here. Most recent on top._
 
 ## Open questions / to-do
 
-- [ ] Confirm preferred contact method and cadence
+- [x] Confirm preferred contact method and cadence
 - [ ] Document approval thresholds for repairs/expenses
 - [ ] Confirm mailing address for statements
 

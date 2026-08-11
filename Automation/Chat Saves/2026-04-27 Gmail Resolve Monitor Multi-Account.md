@@ -1,6 +1,16 @@
+---
+type: chat-save
+status: historical
+authority: session evidence; verify against current live configuration
+last_verified: null
+superseded_by: null
+---
+
 # 2026-04-27 — Gmail Resolve Monitor: Multi-Account Expansion
 
 ## Outcome
+
+**Canonical log:** [[Automation/Gmail Resolve/Gmail Resolve Log]]
 `gmail-resolve-monitor` (pm2 id 12) now polls **3 Gmail accounts** instead of 1. Live and verified.
 
 - `office@dwcproperty.com` (already running)

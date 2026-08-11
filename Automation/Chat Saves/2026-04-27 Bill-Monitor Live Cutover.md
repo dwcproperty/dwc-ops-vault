@@ -1,8 +1,18 @@
+---
+type: chat-save
+status: historical
+authority: session evidence; verify against current live configuration
+last_verified: null
+superseded_by: null
+---
+
 # bill-monitor — flipped to live
 
 Session date: 2026-04-27 (~07:55–08:10 UTC)
 
 ## TL;DR
+
+**Canonical log:** [[Automation/Utility Bill Pipeline/Bill Monitor Log]]
 
 Flipped `bill-monitor` from `DRY_RUN=true` to `DRY_RUN=false`. First real LeadSimple stage advancement landed at **07:59:55 UTC** — the "1208 Mesquite Lane (Apr)" utility-bill process moved to **Tenant Paid** automatically when its Rentvine charge cleared. No errors, no alerts, monitor process healthy.
 
