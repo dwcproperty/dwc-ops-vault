@@ -55,3 +55,32 @@
 ## Tags
 
 #legal #dispute #nalin-ratnaike #attorney-package #active
+
+
+---
+
+## Full evidentiary package — 2026-07-09 (v4, exhibits attached)
+
+**Deliverable:** `Ratnaike Attorney Consultation Package (Full) 2026-07-09.pdf` — 78-page single PDF: expanded brief + verbatim correspondence appendix + Exhibits A–F attached in full. Built for handing directly to counsel. (Generated in Cowork; save to Drive/Legal for the permanent record.)
+
+**How the 7/9 letter arrived:** forwarded by DWC's broker **Dustin Dean** (First-In Realty) to dcalhoun@dwcproperty.com on 2026-07-09 (msg 19f47a27c31b9ec8, "You already know about all this?"), **and received directly in DWC's own inbox** as well. Marked TRE 408.
+
+### What's new vs. the v3 brief
+- **Exact contract language quoted** from the executed TXR-2201 (Exhibit A): Para 4(III)(A) fees-upon-termination, 6(A) fees earned despite vacancy, 7(D) offset, 13(D) 7% on post-termination funds, 17 default (10-day notice-and-cure + attorney's fees + **compensation preserved even on breach**), 18 mediation, 19 prevailing-party fees.
+- **Corrected fee basis:** early-termination fees flow from **Para 13 / 4(III)(A)** (not Para 17). Documented claim **$14,075.95** = Bill #954 Thurstan $13,207.95 + Bill #955 Red Brick $868.00 (per DWC's 6/27 email).
+- **Money detail:** $9,814.99 post-termination July rents held in DWC trust (offset under 7(D)); **$4,200 reserve shortfall** the Owner never funded (Para 5); $18,974 deposits transferred; cat-catcher = **Bill 925, $609.44** (tx 4601).
+- **Point-by-point response** to all 12 for-cause allegations, tied to work-order/lease records.
+- **Appendix 1:** full text of 4 key emails (6/27 closeout, 7/1 questions, 7/2 trust-accounting response, 7/9 breach letter).
+
+### Exhibit index (attached in the PDF)
+- **A** — Thurstan 100 LLC TXR-2201 PMA (executed) · Drive id `1tWVAYHMcsS2FlIMlwMz_h8a9zBscAMlh`
+- **B** — Red Brick Properties USA LLC TXR-2201 PMA (executed) · Drive id `19tuqr7OH3OI27Ik1SP4Vb0dtVBG_PInh`
+- **C** — DWC Termination Confirmation, Thurstan (6/10/2026) · Drive id `1h-9bBUmM928HaB4aYHq3rkN75yhitTgw`
+- **D** — DWC Termination Confirmation, Red Brick (6/10/2026) · Drive id `1fd_zcTKuNhool7EVotXXEJcMImUaUc3h`
+- **E** — DWC Owner Statement, Full History 01/01–06/27/2026 · Drive id `1oHrPiTovvwUeLDq-uVwMQhd7CCB5R5qa`
+- **F** — DWC Owner Statement, Closeout 06/15–06/27/2026 · Drive id `1tQZArCdL1szQ1FDT-HIwstxFKjtB8vZ1`
+
+### Still open before consult
+- [ ] Assemble per-property backup for allegations C–L, priority **421 Ridgeview** (utility-activation proof, final-walkthrough record, condition photos; named witnesses Heather Rodgers / Alec Hereford).
+- [ ] Reconcile **$15,541.27** prior audited total vs. **$14,075.95** billed; align the settlement number.
+- [ ] Preserve the three altered termination PDFs (metadata intact) + side-by-side of correct vs. altered signing date.

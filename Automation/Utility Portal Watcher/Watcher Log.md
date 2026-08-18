@@ -82,3 +82,80 @@
 - 2026-06-23T07:04:38.354Z — Run: 1 new, 0 changed across 11 portal(s). ⚠️ needs attention: City of Princeton
 - 2026-06-23T16:50:46.041Z — Run: 0 new, 0 changed across 1 portal(s).
 - 2026-06-23T19:10:22.832Z — Run: 0 new, 3 changed (3 paid) across 11 portal(s).
+- 2026-06-24T07:04:37.780Z — Run: 4 new, 0 changed across 11 portal(s).
+- 2026-06-25T07:03:50.621Z — Run: 0 new, 0 changed across 11 portal(s).
+- 2026-06-25T19:28:43.127Z — Run: 2 new, 0 changed across 11 portal(s).
+- 2026-06-26T07:07:21.293Z — Run: 0 new, 0 changed across 11 portal(s).
+- 2026-06-27T07:05:57.387Z — Run: 4 new, 0 changed across 11 portal(s).
+- 2026-06-28T07:04:20.496Z — Run: 0 new, 1 changed (1 paid) across 11 portal(s).
+- 2026-06-29T07:04:18.173Z — Run: 0 new, 0 changed across 11 portal(s). ⚠️ needs attention: Farmers Electric
+- 2026-06-29T14:10:26.173Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-06-30T07:04:19.606Z — Run: 0 new, 1 changed (1 paid) across 11 portal(s). ⚠️ needs attention: City of The Colony
+- 2026-07-01T07:04:44.051Z — Run: 1 new, 0 changed across 11 portal(s).
+- 2026-07-02T07:04:05.601Z — Run: 0 new, 0 changed across 11 portal(s).
+- 2026-07-03T07:05:56.895Z — Run: 1 new, 0 changed across 11 portal(s).
+- 2026-07-04T07:04:33.307Z — Run: 0 new, 0 changed across 11 portal(s).
+- 2026-07-04T16:45:13.337Z — Run: 0 new, 6 changed (6 paid) across 11 portal(s). ⚠️ needs attention: CoServ
+- 2026-07-04T16:52:06.956Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-07-04T16:53:52.344Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-07-05T07:05:18.398Z — Run: 0 new, 0 changed across 11 portal(s).
+- 2026-07-06T07:04:55.302Z — Run: 0 new, 0 changed across 11 portal(s). ⚠️ needs attention: Farmers Electric
+- 2026-07-06T19:50:46.173Z — Run: 0 new, 6 changed (6 paid) across 11 portal(s).
+- 2026-07-07T07:05:01.330Z — Run: 1 new, 0 changed across 11 portal(s). ⚠️ needs attention: TXU Electric
+- 2026-07-07T16:18:00.465Z — Run: 0 new, 0 changed across 1 portal(s). ⚠️ needs attention: TXU Electric
+- 2026-07-07T16:19:55.121Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-07-07T16:25:10.437Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-07-08T07:04:16.994Z — Run: 2 new, 0 changed across 11 portal(s).
+- 2026-07-09T07:04:39.496Z — Run: 0 new, 0 changed across 11 portal(s).
+- 2026-07-10T07:04:56.760Z — Run: 0 new, 0 changed across 11 portal(s). ⚠️ needs attention: Farmers Electric
+- 2026-07-11T07:03:47.783Z — Run: 0 new, 0 changed across 11 portal(s).
+- 2026-07-12T07:04:26.629Z — Run: 0 new, 0 changed across 11 portal(s).
+- 2026-07-13T07:04:19.676Z — Run: 0 new, 0 changed across 11 portal(s). ⚠️ needs attention: Farmers Electric
+- 2026-07-14T07:05:31.376Z — Run: 1 new, 0 changed across 11 portal(s).
+- 2026-07-15T07:06:18.102Z — Run: 0 new, 0 changed across 11 portal(s). ⚠️ needs attention: CoServ
+- 2026-07-16T07:04:17.545Z — Run: 0 new, 0 changed across 11 portal(s). ⚠️ needs attention: CoServ
+- 2026-07-16T18:17:59.324Z — Run: 1 new, 0 changed across 11 portal(s). ⚠️ needs attention: CoServ
+- 2026-07-17T07:04:32.818Z — Run: 0 new, 0 changed across 10 portal(s). ⚠️ needs attention: Farmers Electric
+- 2026-07-17T15:05:19.962Z — Run: 0 new, 0 changed across 10 portal(s). ⚠️ needs attention: Farmers Electric
+- 2026-07-17T15:07:25.931Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-07-18T07:04:32.064Z — Run: 0 new, 0 changed across 10 portal(s).
+- 2026-07-19T07:03:30.634Z — Run: 1 new, 0 changed across 10 portal(s). ⚠️ needs attention: TXU Electric
+- 2026-07-19T13:38:23.244Z — Run: 1 new, 0 changed across 1 portal(s).
+- 2026-07-20T07:03:58.848Z — Run: 0 new, 0 changed across 10 portal(s). ⚠️ needs attention: Farmers Electric
+- 2026-07-21T07:04:03.099Z — Run: 2 new, 0 changed across 10 portal(s).
+- 2026-07-22T07:04:47.016Z — Run: 2 new, 1 changed (1 paid) across 10 portal(s).
+- 2026-07-23T07:04:32.211Z — Run: 0 new, 0 changed across 10 portal(s).
+- 2026-07-23T13:10:01.685Z — Run: 0 new, 0 changed across 10 portal(s).
+- 2026-07-23T13:11:25.994Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-07-24T02:37:32.015Z — Run: 2 new, 0 changed across 1 portal(s).
+- 2026-07-24T02:39:42.905Z — Run: 0 new, 0 changed across 1 portal(s).
+- 2026-07-24T07:05:10.179Z — Run: 2 new, 0 changed across 10 portal(s).
+- 2026-07-25T07:05:42.169Z — Run: 1 new, 0 changed across 10 portal(s).
+- 2026-07-26T07:04:18.836Z — Run: 0 new, 0 changed across 10 portal(s).
+- 2026-07-27T07:04:47.653Z — Run: 0 new, 0 changed across 10 portal(s). ⚠️ needs attention: Farmers Electric
+- 2026-07-28T07:04:39.696Z — Run: 0 new, 1 changed (1 paid) across 10 portal(s).
+- 2026-07-29T06:31:37.345Z — Run: 0 new, 1 changed (1 paid) across 10 portal(s).
+- 2026-07-29T07:04:11.734Z — Run: 0 new, 0 changed across 10 portal(s).
+- 2026-07-30T07:04:18.852Z — Run: 0 new, 0 changed across 10 portal(s).
+- 2026-07-31T07:03:36.134Z — Run: 0 new, 1 changed (1 paid) across 10 portal(s).
+- 2026-08-01T07:04:43.985Z — Run: 1 new, 0 changed across 10 portal(s).
+- 2026-08-02T07:03:59.232Z — Run: 0 new, 0 changed across 10 portal(s).
+- 2026-08-03T07:04:11.306Z — Run: 0 new, 0 changed across 10 portal(s). ⚠️ needs attention: Farmers Electric
+- 2026-08-04T07:04:11.441Z — Run: 0 new, 0 changed across 10 portal(s).
+- 2026-08-04T12:38:23.126Z — Run: 0 new, 9 changed (9 paid) across 10 portal(s).
+- 2026-08-05T07:04:57.876Z — Run: 1 new, 0 changed across 10 portal(s).
+- 2026-08-06T07:06:21.218Z — Run: 1 new, 0 changed across 10 portal(s). ⚠️ needs attention: TXU Electric
+- 2026-08-07T07:03:56.737Z — Run: 0 new, 0 changed across 10 portal(s).
+- 2026-08-08T07:04:22.626Z — Run: 1 new, 0 changed across 10 portal(s).
+- 2026-08-09T07:02:52.233Z — Run: 0 new, 0 changed across 10 portal(s). ⚠️ needs attention: TXU Electric
+- 2026-08-10T07:04:37.097Z — Run: 0 new, 0 changed across 10 portal(s). ⚠️ needs attention: Farmers Electric
+- 2026-08-11T07:04:09.777Z — Run: 0 new, 0 changed across 10 portal(s).
+- 2026-08-12T07:04:39.539Z — Run: 1 new, 0 changed across 10 portal(s).
+- 2026-08-13T07:05:30.044Z — Run: 2 new, 0 changed across 10 portal(s).
+- 2026-08-14T02:38:43.194Z — Run: 1 new, 0 changed across 10 portal(s).
+- 2026-08-14T02:46:04.451Z — Run: 0 new, 0 changed across 10 portal(s).
+- 2026-08-14T07:04:25.070Z — Run: 0 new, 0 changed across 10 portal(s).
+- 2026-08-15T07:04:53.423Z — Run: 0 new, 0 changed across 10 portal(s).
+- 2026-08-16T07:04:21.242Z — Run: 0 new, 0 changed across 10 portal(s).
+- 2026-08-17T07:04:25.219Z — Run: 0 new, 0 changed across 10 portal(s). ⚠️ needs attention: Farmers Electric
+- 2026-08-18T07:04:37.175Z — Run: 1 new, 1 changed (1 paid) across 10 portal(s).

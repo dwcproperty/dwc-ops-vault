@@ -66,3 +66,5 @@ _Log significant calls, emails, decisions here. Most recent on top._
 ## Legal / Dispute
 
 - [[Nalin Ratnaike - Termination Dispute]] — termination settled (eff. July 1, 2026); financials open under Paragraph 17; documented pattern of three altered termination documents (June 19–22, 2026), including an altered signing date on "Termination 1907.pdf."
+
+- **2026-07-06** — **Rentvine tenant offboarding.** Deactivated all tenants and revoked all active resident-portal access across both portfolios (Thurstan 100 LLC + Red Brick Properties USA LLC) — 37 tenants total, all on Closed leases. Part of post-termination wind-down. Full log: [[Nalin Ratnaike - Tenant Deactivation Log 2026-07-06]].
