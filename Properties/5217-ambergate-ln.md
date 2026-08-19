@@ -1,3 +1,11 @@
+---
+type: property-index
+status: convenience-index
+authority: RentVine; verify before relying
+last_verified: null
+superseded_by: null
+---
+
 # 5217 Ambergate Ln
 
 **Owner:** [[nalin-ratnaike]]

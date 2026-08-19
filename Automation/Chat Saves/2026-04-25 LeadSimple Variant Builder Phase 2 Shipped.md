@@ -1,8 +1,18 @@
+---
+type: chat-save
+status: historical
+authority: session evidence; verify against current LeadSimple and DWC standards
+last_verified: null
+superseded_by: null
+---
+
 # LeadSimple Variant Builder — Phase 2 shipped
 
 Session date: 2026-04-25 (continued from earlier sessions today)
 
 ## TL;DR
+
+**Canonical index:** [[Systems Knowledge/LeadSimple/LeadSimple Research Index]]
 
 The full **describe → built** loop now works. You describe a process in conversation → Claude drafts a YAML spec → you review → Claude runs `build_process.py` → process exists in LeadSimple as a draft → you review/publish in the UI.
 

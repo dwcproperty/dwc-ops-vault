@@ -1,6 +1,16 @@
+---
+type: chat-save
+status: historical
+authority: session evidence; verify against current LeadSimple and DWC standards
+last_verified: null
+superseded_by: null
+---
+
 # 2026-04-25 — Chat Save: LeadSimple Process Automation Research
 
 **Status:** Paused mid-conversation. Pick up here next session.
+
+**Canonical index:** [[Systems Knowledge/LeadSimple/LeadSimple Research Index]]
 
 ## What we were exploring
 

@@ -1,8 +1,18 @@
+---
+type: chat-save
+status: historical
+authority: session evidence; verify against current LeadSimple and DWC standards
+last_verified: null
+superseded_by: null
+---
+
 # LeadSimple Variant Builder — Phase 0 recap
 
 Session date: 2026-04-25 (continued from earlier session)
 
 ## Goal
+
+**Canonical index:** [[Systems Knowledge/LeadSimple/LeadSimple Research Index]]
 
 Build automation to create new LeadSimple process types (templates) on demand. 25-100+ "Acct" family variants planned, all spawned from a master template (`Acct Utility Bills`). LeadSimple has no public API for creating process types — every variant has to go through the UI, so we're building a Playwright-driven tool.
 

@@ -1,48 +1,62 @@
+---
+type: reference
+status: needs-review
+authority: Darrell's current machine and server configuration
+last_verified: null
+superseded_by: null
+---
+
 # Quick Commands
 
 ## Launch Claude Code on the Linode box
 
-From your local machine (Mac/laptop):
+From Windows PowerShell:
 
-```bash
-ssh root@96.126.118.135
+```powershell
+ssh dwc-mcp-server
 cd /root/dwc-coding
 claude
 ```
 
-### One-liner alias (recommended)
+### Current SSH config
 
-Add to `~/.zshrc` (Mac default) or `~/.bashrc` on your local machine:
+Configured on Darrell's Windows machine at `C:\Users\Darrell\.ssh\config`:
 
-```bash
-alias dwc='ssh -t root@96.126.118.135 "cd /root/dwc-coding && claude"'
-```
-
-Then just type `dwc` from any terminal. The `-t` flag forces a TTY so Claude Code runs interactively.
-
-Reload shell after adding: `source ~/.zshrc`
-
-### Cleaner alternative — SSH config
-
-Add to `~/.ssh/config` on your local machine:
-
-```
-Host dwc
+```sshconfig
+Host dwc-mcp-server
     HostName 96.126.118.135
     User root
-    RequestTTY yes
-    RemoteCommand cd /root/dwc-coding && claude
+    IdentityFile ~/.ssh/dwc_mcp_server
+    IdentitiesOnly yes
 ```
 
-Then `ssh dwc` launches Claude Code in the right directory.
+SSH password login is disabled. Root login is allowed by SSH key only.
+
+### Claude Code one-liner
+
+From Windows PowerShell:
+
+```powershell
+ssh -t dwc-mcp-server "cd /root/dwc-coding && claude"
+```
 
 ---
 
 ## Linode box info
 
+- Server label / hostname: `dwc-mcp-server`
 - IP: `96.126.118.135`
 - Working directory for Claude sessions: `/root/dwc-coding`
 - CLAUDE.md context file: `/root/dwc-coding/CLAUDE.md` (auto-loads on session start)
+- Backups: enabled in Linode, scheduled Sunday `06:00 - 08:00 GMT`
+- SSH security as of 2026-07-09:
+  - `PasswordAuthentication no`
+  - `KbdInteractiveAuthentication no`
+  - `PubkeyAuthentication yes`
+  - `PermitRootLogin without-password`
+- Public firewall: raw public port `3000` is closed. Public webhook traffic should use HTTPS/Nginx.
+- Nginx proxy: `https://webhook.collincountyrent.com` -> `127.0.0.1:3000`
+- PM2 status after reboot: apps online except `seo-pmw-flipper`, which was already stopped.
 
 ## Health check the webhook
 

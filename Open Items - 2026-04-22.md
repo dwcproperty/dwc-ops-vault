@@ -1,4 +1,15 @@
+---
+type: snapshot
+status: historical
+authority: RentVine, LeadSimple, and RentEngine snapshot
+snapshot_date: 2026-04-22
+last_verified: null
+superseded_by: null
+---
+
 # Open Items — 2026-04-22
+
+> Historical snapshot from 2026-04-22. Do not treat this as a current queue. Recheck every item in the owning platform before acting.
 
 Compiled from Rentvine, Leadsimple, and RentEngine. Focus: work in progress and things you should pick up.
 
